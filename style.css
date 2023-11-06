@@ -1,0 +1,30 @@
+h1 {text-align: center;}
+h1 {color: blue;}
+
+h2{color: white;}
+h2 {text-align:center;}
+
+h3 {color: white;}
+h3 {text-align:center;}
+
+#anão {margin-left: 37%;}
+#anão {width: 25%;}
+#anão {border:solid  rgb(255, 0, 0) ;}
+
+
+
+
+
+#anãomae {margin-left: 37%;}
+#anãomae {width: 25%;}
+#anãomae {border:solid  rgb(255, 0, 0) ;}
+
+
+#bonbado {margin-left: 37%;}
+#bonbado {width: 25%;}
+#bonbado {border:solid  rgb(255, 0, 0) ;}
+
+#jogador {margin-left: 37%;}
+#jogador {width: 25%;}
+#jogador {border:solid  rgb(255, 0, 0) ;}
+body {background-color: black;}
